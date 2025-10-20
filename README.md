@@ -64,6 +64,8 @@ npm run dev
 http://localhost:5173
 ```
 
+El servidor se abrirá automáticamente en tu navegador predeterminado.
+
 ## 🛠️ Scripts Disponibles
 
 ```bash
