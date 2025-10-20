@@ -231,4 +231,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ⭐️ Si te gustó este proyecto, no olvides darle una estrella en GitHub!
 
-**Desarrollado con ❤️ usando React + Vite**
+**Mikens 🗺**
