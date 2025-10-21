@@ -177,7 +177,7 @@ const Gallery = () => {
   return (
     <div className="gallery-page">
       <header className="page-header">
-        <h1 className="page-title">Galería Fotográfica</h1>
+        <h1 className="page-title">Galería Mikens</h1>
         <p className="page-subtitle">Explora la colección</p>
       </header>
 
